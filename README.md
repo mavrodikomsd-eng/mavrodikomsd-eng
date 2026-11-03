@@ -30,9 +30,9 @@
 
 ### 📍 Сейчас
 
-- 🌱 Первый PR ушёл в [huggingface/xet-core](https://github.com/huggingface/xet-core) — движок хранения, через который качаются модели с HuggingFace Hub
+- ✅ Первый PR влит в [meilisearch](https://github.com/meilisearch/meilisearch/pull/6699) — поисковый движок на Rust
+- 🔧 Открытые PR: [uutils/coreutils](https://github.com/uutils/coreutils/pull/15874) — Rust-порт GNU coreutils (фиксы GNU-совместимости в `dd` и `split`), и [sharkdp/fd](https://github.com/sharkdp/fd/pull/2200) — CLI-логика `--unrestricted`
 - 📚 Учусь: углубляю Rust, дальше — C, операционные системы и сети
-- 🎯 Ищу интересные `good first issue` в крупных Rust-проектах
 
 ### 🎯 Интересуюсь
 
@@ -54,9 +54,9 @@
 
 ### 📍 Now
 
-- 🌱 First PR submitted to [huggingface/xet-core](https://github.com/huggingface/xet-core) — the storage engine behind HuggingFace Hub downloads
+- ✅ First PR merged into [meilisearch](https://github.com/meilisearch/meilisearch/pull/6699) — the Rust search engine
+- 🔧 Open PRs: [uutils/coreutils](https://github.com/uutils/coreutils/pull/15874) — Rust rewrite of GNU coreutils (GNU-compat fixes in `dd` and `split`), and [sharkdp/fd](https://github.com/sharkdp/fd/pull/2200) — `--unrestricted` CLI logic
 - 📚 Learning: deeper Rust, then C, operating systems and networking
-- 🎯 Hunting interesting `good first issue`s in major Rust projects
 
 ### 🎯 Into
 
